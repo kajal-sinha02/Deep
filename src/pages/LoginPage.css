@@ -1,0 +1,13 @@
+/* src/pages/LoginPage.css */
+.login-container {
+  width: 150%; /* Increased width to 90% of the viewport width */
+  max-width: 1000px; /* Increased maximum width to accommodate more content */
+  min-height: 200px; /* Minimum height for the box */
+  margin: auto;
+  padding: 40px; /* Padding for spacing inside the box */
+  background-color: #f7f9ff; /* White background for the box */
+  border-radius: 12px; /* Rounded corners */
+  /* box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); Slightly deeper shadow for more depth */
+  text-align: center;
+  color: #333; /* Dark text color for contrast */
+}
